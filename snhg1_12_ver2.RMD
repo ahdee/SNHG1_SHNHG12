@@ -1,0 +1,46 @@
+---
+title: "SNHG1, SHNHG12 version 1"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+html_document:
+toc: TRUE
+toc_float: FALSE
+editor_options: 
+  chunk_output_type: console
+chunk_output_type: console
+---
+
+
+<style type="text/css">
+.main-container {
+max-width: 2500px;
+margin-left: 5px;
+margin-right: auto;
+}
+.toc-content {
+max-width: 2500px;
+margin-left: 50px;
+margin-right: auto;
+}
+
+div {
+
+margin-left: 5px;
+}
+
+
+hr.new1 {
+border-top: 1px solid #84a8e0;
+}
+
+
+</style>
+
+version: 1.0 <br />
+Run at "`r format(Sys.time())`"
+
+# Data {.tabset}
+
+## Overview/Method:
+
+
